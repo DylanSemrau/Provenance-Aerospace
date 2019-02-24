@@ -1,2 +1,5 @@
-# Provenance-Aerospace
-Provenance Aerospace adds Blue Origin parts to KSP. Currently New Glenn and New Shepard are all that are planned for the mod.
+Provenance Aerospace adds Blue Origin parts to KSP.
+
+INSTALLATION:
+
+Simply place the Gamedata Folder into your Kerbal Space Program Folder and you're ready to go!
