@@ -1,7 +1,7 @@
 {
   "NAME"     : "Provenance Aerospace",
   "DOWNLOAD" : "https://github.com/DylanSemrau/Provenance-Aerospace/releases",
-  "URL"      : "https://github.com/DylanSemrau/Provenance-Aerospace/blob/master/GameData/ProvenanceAerospace/ProvenanceAerospace.version",
+  "URL"      : "https://github.com/DylanSemrau/Provenance-Aerospace/blob/Master/GameData/ProvenanceAerospace/ProvenanceAerospace.version",
   "GITHUB" : {
     "USERNAME"   : "DylanSemrau",
     "REPOSITORY" : "Provenance-Aerospace"
